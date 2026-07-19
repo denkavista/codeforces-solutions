@@ -17,6 +17,7 @@ auth.json
 # Build Artifacts
 /out
 /dist
+*.exe
 
 # Log
 *.log
